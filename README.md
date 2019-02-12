@@ -7,7 +7,7 @@ Hi All,
 
 At the moment this project is very very simple.  It places a game object at geo coordinates that you hard code into it.  It works, to a certain extent, but it can be a little random with its placing and I’d love it if we could tighten that up.
 
-I scoured the internet for any kind of tutorial that would help with the placing of a Unity game object in the correct location in the real world and everything seemed to be using mapbox.  I then bumped into a project on github (which I will link to at the bottom of this post) that seemed to be doing the Geo mapping VooDoo I needed. (Thanks Togusa09! https://github.com/Togusa09/LocatedAR )
+I scoured the internet for any kind of tutorial that would help with the placing of a Unity game object in the correct location in the real world and everything seemed to be using mapbox.  I then bumped into a project on github that seemed to be doing the Geo mapping VooDoo I needed. (Thanks Togusa09! https://github.com/Togusa09/LocatedAR )
 
 Things to note - 
 1. It’s not very elegant at this point, there are no SOLID principles or anything fancy.  This is very rough work in progress.
